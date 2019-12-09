@@ -14,6 +14,12 @@ Our trained model can be downloaded from [here](https://drive.google.com/open?id
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 0.560 | 0.669 | 0.012 | 0.577 | 0.685 | 0.059 |
 
+## Requirements
+
+torch==1.1.0
+torchvision==0.2.2.post3
+scikit-image==0.14.2
+
 ## Dataset Preparation
 
 Please read [`DATASET.md`](DATASET.md) for downloading and preparing the VLOG dataset for training and DAVIS dataset and JHMDB dataset for testing.
