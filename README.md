@@ -4,8 +4,8 @@ Code for [Self-supervised Learning of Visual Correspondence via Instance Discrim
 
 ## Model and Result
 <p float="left">
-  <img src="figures/1.gif" width="50%" />
-  <img src="figures/2.gif" width="50%" />
+  <img src="figures/1.gif" width="49%" />
+  <img src="figures/2.gif" width="49%" />
 </p>
 
 Our trained model can be downloaded from [here](https://drive.google.com/open?id=1choamF305CCheAGqtl4zBC1Hwn4oq2xn). The tracking performance on DAVIS-2017 for this model (without training on DAVIS-2017) is:
