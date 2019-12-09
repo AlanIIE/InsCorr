@@ -1,25 +1,11 @@
 # InsCorr
 
 Code for [Self-supervised Learning of Visual Correspondence via Instance Discrimination]. The code is developed based on the [PyTorch](https://pytorch.org/) framework. 
-<!-- This repo includes the training code for learning semi-dense correspondence from unlabeled videos, and testing code for applying this correspondence on segmentation mask tracking in videos. -->
-
-
-<!-- ## Citation
-If you use our code in your research or wish to refer to the baseline results, please use the following BibTeX entry.
-```
-@inproceedings{CVPR2019_CycleTime,
-    Author = {Xiaolong Wang and Allan Jabri and Alexei A. Efros},
-    Title = {Learning Correspondence from the Cycle-Consistency of Time},
-    Booktitle = {CVPR},
-    Year = {2019},
-}
-``` -->
 
 ## Model and Result
 <p float="left">
-  <img src="figures/1.gif" width="33%" />
-  <img src="figures/2.gif" width="33%" />
-  <img src="figures/3.gif" width="33%" />
+  <img src="figures/1.gif" width="50%" />
+  <img src="figures/2.gif" width="50%" />
 </p>
 
 Our trained model can be downloaded from [here](https://drive.google.com/open?id=1choamF305CCheAGqtl4zBC1Hwn4oq2xn). The tracking performance on DAVIS-2017 for this model (without training on DAVIS-2017) is:
