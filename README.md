@@ -17,7 +17,9 @@ Our trained model can be downloaded from [here](https://drive.google.com/open?id
 ## Requirements
 
 torch==1.1.0
+
 torchvision==0.2.2.post3
+
 scikit-image==0.14.2
 
 ## Dataset Preparation
